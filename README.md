@@ -1,11 +1,11 @@
 <div align="center">
   <img width="300px" src=".png" align="center" alt="GitHub Readme Stats" />
   
-  안녕하세요 매일매일 발전하면 😊 <br>
+  안녕하세요 매일매일 발전하고 있는 😊 <br>
   **개발자** 류예지입니다🙌 <br><br><br>
 
   ### 📨 CONTACT
-![yeaji](https://img.shields.io/badge/xaesu6@gmail.com-00B3E0?style=flat-square) <br><br>
+![yeaji](https://img.shields.io/badge/yeaji1839@gmail.com-00B3E0?style=flat-square) <br><br>
   
   ### 🛠️ SKILL STACK
   
@@ -24,8 +24,8 @@
 ![Notion](https://img.shields.io/badge/Notion-333333?style=flat-square&logo=notion&logoColor=white) <br><br>
 
   ### 🩵 Social
-![Velog](https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white)
-![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=youtube&logoColor=white) <br><br>
+![Velog]()
+![Youtube]() <br><br>
   
 
   ### ☁️ Activity

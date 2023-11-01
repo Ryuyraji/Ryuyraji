@@ -1,11 +1,11 @@
 <div align="center">
-  <img width="300px" src="xaesu.png" align="center" alt="GitHub Readme Stats" />
+  <img width="300px" src=".png" align="center" alt="GitHub Readme Stats" />
   
-  안녕하세요 😊 <br>
-  **개발자** 하지수입니다🙌 <br><br><br>
+  안녕하세요 매일매일 발전하면 😊 <br>
+  **개발자** 류예지입니다🙌 <br><br><br>
 
   ### 📨 CONTACT
-![xaesu](https://img.shields.io/badge/xaesu6@gmail.com-00B3E0?style=flat-square) <br><br>
+![yeaji](https://img.shields.io/badge/xaesu6@gmail.com-00B3E0?style=flat-square) <br><br>
   
   ### 🛠️ SKILL STACK
   

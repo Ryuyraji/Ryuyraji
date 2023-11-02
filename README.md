@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="300px" src="https://github.com/Ryuyraji/Ryuyraji/issues/1#issue-1973594516" align="center" alt="GitHub Readme Stats" />
+  <img width="300px" src="Ryu.png" align="center" alt="GitHub Readme Stats" />
   
   안녕하세요 매일매일 발전하고 있는 😊 <br>
   **개발자** 류예지입니다🙌 <br><br><br>
@@ -19,10 +19,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-333333?style=flat-square&logo=notion&logoColor=white) <br><br>
 
-  ### 🩵 Social
-![Velog]()
-![Youtube]() <br><br>
-  
-
-  ### ☁️ Activity
-
+ 

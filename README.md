@@ -1,6 +1,6 @@
 <div align="center">
   <img width="300px" src="Ryu.png" align="center" alt="GitHub Readme Stats" />
-  <br><br>
+  <br><br><br><br>
   안녕하세요😊 <br>
   <b>개발자</b>류예지입니다🙌 <br><br><br>
 

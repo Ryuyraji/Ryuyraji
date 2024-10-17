@@ -7,7 +7,7 @@
   ### 📨 CONTACT
 ![yeaji](https://img.shields.io/badge/yeaji1839@gmail.com-00B3E0?style=flat-square) <br><br>
   
-  ### 🛠️ SKILL STACK
+  ### 🛠️ SKILL STACK 
   
 ![C](https://img.shields.io/badge/_C_-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Cpp](https://img.shields.io/badge/C_Plus_Plus-00599C?style=flat-square&logo=cplusplus&logoColor=white)

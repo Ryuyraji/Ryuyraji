@@ -4,7 +4,7 @@
   안녕하세요😊 <br>
   <b>개발자</b>류예지입니다🙌 <br><br><br>   
           
-  ### 📨 CONTACT
+  ### 📨 CONTACT   
 ![yeaji](https://img.shields.io/badge/yeaji1839@gmail.com-00B3E0?style=flat-square) <br><br>
   
   ### 🛠️ SKILL STACK   
